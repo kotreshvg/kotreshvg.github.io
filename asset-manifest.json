@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.509bc90e.css",
+    "main.js": "/static/js/main.42099bd6.js",
+    "static/media/landingBgq.png": "/static/media/landingBgq.28a4c7e034dc08166e94.png",
+    "static/media/logo.svg": "/static/media/logo.44d8d75ca49ab4c7b4669fe25e2b0db8.svg",
+    "static/media/match.svg": "/static/media/match.666b7435c907aeba07f1ceb31a02f5ad.svg",
+    "static/media/roboto.ttf": "/static/media/roboto.b7ce0e8a81ab7a548555.ttf",
+    "static/media/callIcon.svg": "/static/media/callIcon.7774a9cc43f725c551010d0566fc6f78.svg",
+    "static/media/videoOff.svg": "/static/media/videoOff.ea7df9bf4a5e8adbfc63a6010dafd521.svg",
+    "index.html": "/index.html",
+    "static/media/video.svg": "/static/media/video.677cd1159b7927e2d347c93c66031b39.svg",
+    "static/media/recording.svg": "/static/media/recording.5ce3c385bd40b6f06e066a3bf651266b.svg",
+    "static/media/microphoneOff.svg": "/static/media/microphoneOff.86a8b67eec988bc8f7872f028e7e5b0e.svg",
+    "static/media/sendicon.svg": "/static/media/sendicon.959c9c9a24b95e47529320c7bbbdd93c.svg",
+    "static/media/disconnect.svg": "/static/media/disconnect.339a85263c5d4ac982a4733dcbc386a6.svg",
+    "static/media/microphone.svg": "/static/media/microphone.0820806800c9da1c010c662a755d0017.svg",
+    "static/media/cancel.svg": "/static/media/cancel.e75b17a9b8b64ba1432f663619f1d27a.svg",
+    "static/media/user.svg": "/static/media/user.0625d2406e6f849b45522468a0d1d8c9.svg",
+    "static/media/check.svg": "/static/media/check.458bf931e116bbf48f60e5083f991dbb.svg"
+  },
+  "entrypoints": [
+    "static/css/main.509bc90e.css",
+    "static/js/main.42099bd6.js"
+  ]
+}
