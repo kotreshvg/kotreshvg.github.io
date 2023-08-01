@@ -1,3 +1,3 @@
 const env = {
-    MODE: 'production'
+    MODE: 'dev'
 }
