@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.205dbd58.css",
+    "main.css": "/static/css/main.5f88e1bf.css",
     "main.js": "/static/js/main.6edff8ca.js",
     "static/media/landingBgq.png": "/static/media/landingBgq.28a4c7e034dc08166e94.png",
     "static/media/landingBg.jpg": "/static/media/landingBg.0edd7afe09bf997af066.jpg",
@@ -25,7 +25,7 @@
     "static/media/check.svg": "/static/media/check.458bf931e116bbf48f60e5083f991dbb.svg"
   },
   "entrypoints": [
-    "static/css/main.205dbd58.css",
+    "static/css/main.5f88e1bf.css",
     "static/js/main.6edff8ca.js"
   ]
 }
