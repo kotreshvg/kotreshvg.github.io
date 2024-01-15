@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.14af9098.css",
-    "main.js": "/static/js/main.c6cea54a.js",
-    "static/js/814.9b921c4a.chunk.js": "/static/js/814.9b921c4a.chunk.js",
+    "main.js": "/static/js/main.3b316ac7.js",
+    "static/js/814.1447fd7f.chunk.js": "/static/js/814.1447fd7f.chunk.js",
     "static/js/965.f9b6c7f5.chunk.js": "/static/js/965.f9b6c7f5.chunk.js",
     "static/js/138.eec29de8.chunk.js": "/static/js/138.eec29de8.chunk.js",
     "static/js/980.bd26baef.chunk.js": "/static/js/980.bd26baef.chunk.js",
@@ -10,12 +10,11 @@
     "static/js/635.c457f7f2.chunk.js": "/static/js/635.c457f7f2.chunk.js",
     "static/js/390.00c3ff20.chunk.js": "/static/js/390.00c3ff20.chunk.js",
     "static/js/630.c7b5aee8.chunk.js": "/static/js/630.c7b5aee8.chunk.js",
-    "static/js/502.5c48ea53.chunk.js": "/static/js/502.5c48ea53.chunk.js",
+    "static/js/354.0bf59063.chunk.js": "/static/js/354.0bf59063.chunk.js",
     "static/js/746.189e6a48.chunk.js": "/static/js/746.189e6a48.chunk.js",
     "static/media/carosal2.jpg": "/static/media/carosal2.6c26427f5b615a39a463.jpg",
     "static/media/carosal3.jpg": "/static/media/carosal3.8ebf845f624651edde47.jpg",
     "static/media/carosal1.jpg": "/static/media/carosal1.dd8c6dcdb0c7845955d6.jpg",
-    "static/media/landingBg.jpg": "/static/media/landingBg.0edd7afe09bf997af066.jpg",
     "static/media/signup.png": "/static/media/signup.a310ed147446f40296dd.png",
     "static/media/Signin.png": "/static/media/Signin.4b725f5d9dc55b2e3cd9.png",
     "static/media/logo.svg": "/static/media/logo.44d8d75ca49ab4c7b4669fe25e2b0db8.svg",
@@ -46,6 +45,6 @@
   },
   "entrypoints": [
     "static/css/main.14af9098.css",
-    "static/js/main.c6cea54a.js"
+    "static/js/main.3b316ac7.js"
   ]
 }
