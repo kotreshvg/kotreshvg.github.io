@@ -1,18 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.2ca22d76.css",
-    "main.js": "/static/js/main.41a7c4e3.js",
+    "main.css": "/static/css/main.d534253c.css",
+    "main.js": "/static/js/main.369863d0.js",
     "static/js/234.2064a25a.chunk.js": "/static/js/234.2064a25a.chunk.js",
-    "static/js/965.f9b6c7f5.chunk.js": "/static/js/965.f9b6c7f5.chunk.js",
+    "static/js/823.ca17f9c8.chunk.js": "/static/js/823.ca17f9c8.chunk.js",
     "static/js/138.eec29de8.chunk.js": "/static/js/138.eec29de8.chunk.js",
     "static/js/980.bd26baef.chunk.js": "/static/js/980.bd26baef.chunk.js",
     "static/js/94.1cc95b18.chunk.js": "/static/js/94.1cc95b18.chunk.js",
+    "static/js/607.c9150637.chunk.js": "/static/js/607.c9150637.chunk.js",
+    "static/js/711.9b30acfd.chunk.js": "/static/js/711.9b30acfd.chunk.js",
+    "static/js/549.84ac50bc.chunk.js": "/static/js/549.84ac50bc.chunk.js",
     "static/js/573.196d44da.chunk.js": "/static/js/573.196d44da.chunk.js",
     "static/js/635.c457f7f2.chunk.js": "/static/js/635.c457f7f2.chunk.js",
     "static/js/390.00c3ff20.chunk.js": "/static/js/390.00c3ff20.chunk.js",
     "static/js/630.c7b5aee8.chunk.js": "/static/js/630.c7b5aee8.chunk.js",
-    "static/js/354.373fe41e.chunk.js": "/static/js/354.373fe41e.chunk.js",
-    "static/js/746.89746806.chunk.js": "/static/js/746.89746806.chunk.js",
+    "static/js/354.7456816d.chunk.js": "/static/js/354.7456816d.chunk.js",
+    "static/js/746.5a00e3ea.chunk.js": "/static/js/746.5a00e3ea.chunk.js",
     "static/media/carosal2.jpg": "/static/media/carosal2.6c26427f5b615a39a463.jpg",
     "static/media/carosal3.jpg": "/static/media/carosal3.8ebf845f624651edde47.jpg",
     "static/media/carosal1.jpg": "/static/media/carosal1.dd8c6dcdb0c7845955d6.jpg",
@@ -40,6 +43,7 @@
     "static/media/disconnect.svg": "/static/media/disconnect.339a85263c5d4ac982a4733dcbc386a6.svg",
     "static/media/mobileMic.svg": "/static/media/mobileMic.3a12c07a70bfd4bb3dc283f817590c76.svg",
     "static/media/MobileMicOff.svg": "/static/media/MobileMicOff.a004870abafa4b735b6e1ee42a3961da.svg",
+    "static/media/ellipsemenu.svg": "/static/media/ellipsemenu.3ce6067ace2463d776ae637b1876487e.svg",
     "static/media/HamburgerIcon.svg": "/static/media/HamburgerIcon.10d0afd4ea4980f81c9217a0376b2245.svg",
     "static/media/shield.svg": "/static/media/shield.578b0a2b55411ffb65e4613cfa739709.svg",
     "static/media/microphone.svg": "/static/media/microphone.0820806800c9da1c010c662a755d0017.svg",
@@ -49,7 +53,7 @@
     "static/media/check.svg": "/static/media/check.458bf931e116bbf48f60e5083f991dbb.svg"
   },
   "entrypoints": [
-    "static/css/main.2ca22d76.css",
-    "static/js/main.41a7c4e3.js"
+    "static/css/main.d534253c.css",
+    "static/js/main.369863d0.js"
   ]
 }
