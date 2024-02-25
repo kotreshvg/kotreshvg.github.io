@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.59b16c05.css",
-    "main.js": "/static/js/main.2aa21472.js",
+    "main.css": "/static/css/main.14d7c269.css",
+    "main.js": "/static/js/main.29df0e39.js",
     "static/js/9.ea5a2a17.chunk.js": "/static/js/9.ea5a2a17.chunk.js",
-    "static/js/823.ca17f9c8.chunk.js": "/static/js/823.ca17f9c8.chunk.js",
+    "static/js/661.56a0ef9b.chunk.js": "/static/js/661.56a0ef9b.chunk.js",
     "static/js/138.eec29de8.chunk.js": "/static/js/138.eec29de8.chunk.js",
     "static/js/980.a7282240.chunk.js": "/static/js/980.a7282240.chunk.js",
     "static/js/94.1cc95b18.chunk.js": "/static/js/94.1cc95b18.chunk.js",
@@ -25,15 +25,17 @@
     "static/media/Signin.png": "/static/media/Signin.4b725f5d9dc55b2e3cd9.png",
     "static/media/logo.svg": "/static/media/logo.44d8d75ca49ab4c7b4669fe25e2b0db8.svg",
     "static/media/Gear.svg": "/static/media/Gear.130f98a9697354d1a7c71ae1b995a516.svg",
-    "static/media/emojij.svg": "/static/media/emojij.a0df3e98d05714551474a234c0e05ef6.svg",
     "static/media/match.svg": "/static/media/match.666b7435c907aeba07f1ceb31a02f5ad.svg",
     "static/media/mobVidOff.svg": "/static/media/mobVidOff.f6c8c813d756325ec968ece3f6bff4c4.svg",
+    "index.html": "/index.html",
     "static/media/roboto.ttf": "/static/media/roboto.b7ce0e8a81ab7a548555.ttf",
     "static/media/globe.svg": "/static/media/globe.4f2a52241d933dcb9c52291822e8b4a3.svg",
-    "index.html": "/index.html",
+    "static/media/emojij.svg": "/static/media/emojij.3e6f188606533ff777f9eaf693998049.svg",
+    "static/media/camera.svg": "/static/media/camera.41ab8f869278450ea87f7359cefc43e7.svg",
     "static/media/Bell.svg": "/static/media/Bell.215cecd8a15a46054068bec8989c86bb.svg",
     "static/media/videoOff.svg": "/static/media/videoOff.ea7df9bf4a5e8adbfc63a6010dafd521.svg",
     "static/media/lightening.svg": "/static/media/lightening.9d16308718f5b44e89615aa7625c9007.svg",
+    "static/media/photoCapture.svg": "/static/media/photoCapture.6b3ebffc31d1ac789109e0203554c129.svg",
     "static/media/Love.svg": "/static/media/Love.e1f04c07441e7e041f03c55646a9f918.svg",
     "static/media/profile.svg": "/static/media/profile.d91d8afb051f25101a47fb797456fc46.svg",
     "static/media/mobileVid.svg": "/static/media/mobileVid.33d46888344170217dda67acff708fe6.svg",
@@ -41,6 +43,7 @@
     "static/media/UpIcon.svg": "/static/media/UpIcon.e68e1e5f46d9e09a15c8dcbfcb7a6d36.svg",
     "static/media/microphoneOff.svg": "/static/media/microphoneOff.86a8b67eec988bc8f7872f028e7e5b0e.svg",
     "static/media/authedUser.svg": "/static/media/authedUser.de1ff283f8ec5dbda3be572798c7f20a.svg",
+    "static/media/checklight.svg": "/static/media/checklight.0df5ad0495c69180d218faa557346799.svg",
     "static/media/sendicon.svg": "/static/media/sendicon.959c9c9a24b95e47529320c7bbbdd93c.svg",
     "static/media/disconnect.svg": "/static/media/disconnect.339a85263c5d4ac982a4733dcbc386a6.svg",
     "static/media/mobileMic.svg": "/static/media/mobileMic.3a12c07a70bfd4bb3dc283f817590c76.svg",
@@ -49,16 +52,18 @@
     "static/media/ellipsemenu.svg": "/static/media/ellipsemenu.3ce6067ace2463d776ae637b1876487e.svg",
     "static/media/HamburgerIcon.svg": "/static/media/HamburgerIcon.10d0afd4ea4980f81c9217a0376b2245.svg",
     "static/media/shield.svg": "/static/media/shield.578b0a2b55411ffb65e4613cfa739709.svg",
+    "static/media/switchCamera.svg": "/static/media/switchCamera.bc4f31afafac7c50f2392cbd607d77f3.svg",
     "static/media/microphone.svg": "/static/media/microphone.0820806800c9da1c010c662a755d0017.svg",
     "static/media/arrow-left-solid.svg": "/static/media/arrow-left-solid.07f8c39113e8fb15b640ecafe6256813.svg",
     "static/media/spam.svg": "/static/media/spam.30ebb5d7ba525d55fd41a341850c5207.svg",
     "static/media/cancel.svg": "/static/media/cancel.e75b17a9b8b64ba1432f663619f1d27a.svg",
     "static/media/user.svg": "/static/media/user.0625d2406e6f849b45522468a0d1d8c9.svg",
     "static/media/Rightarrowhead.svg": "/static/media/Rightarrowhead.9d270926eedaa032665b5d16955fc405.svg",
+    "static/media/reload.svg": "/static/media/reload.fc439ddb9008fc80c2a5297ababb4136.svg",
     "static/media/check.svg": "/static/media/check.458bf931e116bbf48f60e5083f991dbb.svg"
   },
   "entrypoints": [
-    "static/css/main.59b16c05.css",
-    "static/js/main.2aa21472.js"
+    "static/css/main.14d7c269.css",
+    "static/js/main.29df0e39.js"
   ]
 }
