@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.14d7c269.css",
-    "main.js": "/static/js/main.29df0e39.js",
+    "main.css": "/static/css/main.67733b11.css",
+    "main.js": "/static/js/main.c2c3c302.js",
     "static/js/9.ea5a2a17.chunk.js": "/static/js/9.ea5a2a17.chunk.js",
     "static/js/661.56a0ef9b.chunk.js": "/static/js/661.56a0ef9b.chunk.js",
     "static/js/138.eec29de8.chunk.js": "/static/js/138.eec29de8.chunk.js",
     "static/js/980.a7282240.chunk.js": "/static/js/980.a7282240.chunk.js",
-    "static/js/94.1cc95b18.chunk.js": "/static/js/94.1cc95b18.chunk.js",
+    "static/js/94.ade92553.chunk.js": "/static/js/94.ade92553.chunk.js",
     "static/js/607.08726462.chunk.js": "/static/js/607.08726462.chunk.js",
     "static/js/680.439a67ee.chunk.js": "/static/js/680.439a67ee.chunk.js",
     "static/js/405.0d290394.chunk.js": "/static/js/405.0d290394.chunk.js",
@@ -27,10 +27,10 @@
     "static/media/Gear.svg": "/static/media/Gear.130f98a9697354d1a7c71ae1b995a516.svg",
     "static/media/match.svg": "/static/media/match.666b7435c907aeba07f1ceb31a02f5ad.svg",
     "static/media/mobVidOff.svg": "/static/media/mobVidOff.f6c8c813d756325ec968ece3f6bff4c4.svg",
-    "index.html": "/index.html",
     "static/media/roboto.ttf": "/static/media/roboto.b7ce0e8a81ab7a548555.ttf",
     "static/media/globe.svg": "/static/media/globe.4f2a52241d933dcb9c52291822e8b4a3.svg",
     "static/media/emojij.svg": "/static/media/emojij.3e6f188606533ff777f9eaf693998049.svg",
+    "index.html": "/index.html",
     "static/media/camera.svg": "/static/media/camera.41ab8f869278450ea87f7359cefc43e7.svg",
     "static/media/Bell.svg": "/static/media/Bell.215cecd8a15a46054068bec8989c86bb.svg",
     "static/media/videoOff.svg": "/static/media/videoOff.ea7df9bf4a5e8adbfc63a6010dafd521.svg",
@@ -63,7 +63,7 @@
     "static/media/check.svg": "/static/media/check.458bf931e116bbf48f60e5083f991dbb.svg"
   },
   "entrypoints": [
-    "static/css/main.14d7c269.css",
-    "static/js/main.29df0e39.js"
+    "static/css/main.67733b11.css",
+    "static/js/main.c2c3c302.js"
   ]
 }
