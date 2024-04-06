@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.34d2d3bc.css",
-    "main.js": "/static/js/main.d4167e88.js",
+    "main.css": "/static/css/main.ef5ea046.css",
+    "main.js": "/static/js/main.992cc331.js",
     "static/js/607.f954e2a8.chunk.js": "/static/js/607.f954e2a8.chunk.js",
-    "static/js/661.56a0ef9b.chunk.js": "/static/js/661.56a0ef9b.chunk.js",
+    "static/js/661.bf7415df.chunk.js": "/static/js/661.bf7415df.chunk.js",
     "static/js/138.eec29de8.chunk.js": "/static/js/138.eec29de8.chunk.js",
-    "static/js/469.ba311de4.chunk.js": "/static/js/469.ba311de4.chunk.js",
+    "static/js/980.5e3f8eaf.chunk.js": "/static/js/980.5e3f8eaf.chunk.js",
     "static/js/978.a63ee9d6.chunk.js": "/static/js/978.a63ee9d6.chunk.js",
     "static/js/202.a85dc383.chunk.js": "/static/js/202.a85dc383.chunk.js",
     "static/js/680.439a67ee.chunk.js": "/static/js/680.439a67ee.chunk.js",
@@ -13,9 +13,9 @@
     "static/js/573.196d44da.chunk.js": "/static/js/573.196d44da.chunk.js",
     "static/js/635.c457f7f2.chunk.js": "/static/js/635.c457f7f2.chunk.js",
     "static/js/56.dd1f7c72.chunk.js": "/static/js/56.dd1f7c72.chunk.js",
-    "static/js/390.00c3ff20.chunk.js": "/static/js/390.00c3ff20.chunk.js",
+    "static/js/390.991cf0d4.chunk.js": "/static/js/390.991cf0d4.chunk.js",
     "static/js/630.c7b5aee8.chunk.js": "/static/js/630.c7b5aee8.chunk.js",
-    "static/js/354.37b1c1cf.chunk.js": "/static/js/354.37b1c1cf.chunk.js",
+    "static/js/354.6198dbf5.chunk.js": "/static/js/354.6198dbf5.chunk.js",
     "static/js/746.d71cae59.chunk.js": "/static/js/746.d71cae59.chunk.js",
     "static/media/carosal2.jpg": "/static/media/carosal2.6c26427f5b615a39a463.jpg",
     "static/media/carosal3.jpg": "/static/media/carosal3.8ebf845f624651edde47.jpg",
@@ -66,7 +66,7 @@
     "static/media/check.svg": "/static/media/check.458bf931e116bbf48f60e5083f991dbb.svg"
   },
   "entrypoints": [
-    "static/css/main.34d2d3bc.css",
-    "static/js/main.d4167e88.js"
+    "static/css/main.ef5ea046.css",
+    "static/js/main.992cc331.js"
   ]
 }
