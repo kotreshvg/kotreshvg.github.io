@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.e5f92f21.css",
-    "main.js": "/static/js/main.f9529ad0.js",
+    "main.css": "/static/css/main.4ec80637.css",
+    "main.js": "/static/js/main.cc99a5bd.js",
     "static/js/157.1717ef66.chunk.js": "/static/js/157.1717ef66.chunk.js",
-    "static/js/531.3ba92929.chunk.js": "/static/js/531.3ba92929.chunk.js",
+    "static/js/710.f4074648.chunk.js": "/static/js/710.f4074648.chunk.js",
     "static/js/473.ef157e20.chunk.js": "/static/js/473.ef157e20.chunk.js",
     "static/js/213.c9101c6d.chunk.js": "/static/js/213.c9101c6d.chunk.js",
     "static/js/659.67f5f4b2.chunk.js": "/static/js/659.67f5f4b2.chunk.js",
-    "static/js/819.973db2e8.chunk.js": "/static/js/819.973db2e8.chunk.js",
+    "static/js/819.2ef8d294.chunk.js": "/static/js/819.2ef8d294.chunk.js",
     "static/js/127.31ce99e7.chunk.js": "/static/js/127.31ce99e7.chunk.js",
-    "static/js/676.0d78010b.chunk.js": "/static/js/676.0d78010b.chunk.js",
+    "static/js/589.1f52272e.chunk.js": "/static/js/589.1f52272e.chunk.js",
     "static/js/381.28028eea.chunk.js": "/static/js/381.28028eea.chunk.js",
     "static/js/705.fee51fc8.chunk.js": "/static/js/705.fee51fc8.chunk.js",
-    "static/js/846.2d5e7915.chunk.js": "/static/js/846.2d5e7915.chunk.js",
-    "static/js/586.70b4b5be.chunk.js": "/static/js/586.70b4b5be.chunk.js",
+    "static/js/724.df8d50cb.chunk.js": "/static/js/724.df8d50cb.chunk.js",
+    "static/js/586.d7574c30.chunk.js": "/static/js/586.d7574c30.chunk.js",
     "static/js/991.49148a23.chunk.js": "/static/js/991.49148a23.chunk.js",
     "static/js/555.07723794.chunk.js": "/static/js/555.07723794.chunk.js",
     "static/media/carosal2.jpg": "/static/media/carosal2.6c26427f5b615a39a463.jpg",
@@ -40,11 +40,14 @@
     "static/media/featureIncon1.svg": "/static/media/featureIncon1.d0211a6d09668d5043b799b68fab7c50.svg",
     "static/media/featureIncon2.svg": "/static/media/featureIncon2.cd2de8f71da64018e239334a210de08f.svg",
     "static/media/FeedbackIcon.svg": "/static/media/FeedbackIcon.dbc1bda3a3ebe9fb4591386a28e18ae1.svg",
+    "static/media/mobilefrinds.svg": "/static/media/mobilefrinds.dd35e8a153db716c6dd329a95e01cc23.svg",
     "static/media/match.svg": "/static/media/match.666b7435c907aeba07f1ceb31a02f5ad.svg",
+    "static/media/mobilerandomchaticon.svg": "/static/media/mobilerandomchaticon.827840e9c548d9c173e1f07b5716f67d.svg",
     "index.html": "/index.html",
     "static/media/mobVidOff.svg": "/static/media/mobVidOff.f6c8c813d756325ec968ece3f6bff4c4.svg",
     "static/media/roboto.ttf": "/static/media/roboto.b7ce0e8a81ab7a548555.ttf",
     "static/media/emojij.svg": "/static/media/emojij.3e6f188606533ff777f9eaf693998049.svg",
+    "static/media/mobilelink.svg": "/static/media/mobilelink.d8487383c55c009da4df6e430e46b803.svg",
     "static/media/camera.svg": "/static/media/camera.41ab8f869278450ea87f7359cefc43e7.svg",
     "static/media/groupchat-icon.svg": "/static/media/groupchat-icon.9554c9c5f8cd50320ac598aa7d7cbaff.svg",
     "static/media/Bell.svg": "/static/media/Bell.215cecd8a15a46054068bec8989c86bb.svg",
@@ -89,7 +92,7 @@
     "static/media/check.svg": "/static/media/check.458bf931e116bbf48f60e5083f991dbb.svg"
   },
   "entrypoints": [
-    "static/css/main.e5f92f21.css",
-    "static/js/main.f9529ad0.js"
+    "static/css/main.4ec80637.css",
+    "static/js/main.cc99a5bd.js"
   ]
 }
