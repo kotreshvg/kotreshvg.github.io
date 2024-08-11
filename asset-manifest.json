@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.4ec80637.css",
-    "main.js": "/static/js/main.cc99a5bd.js",
-    "static/js/157.1717ef66.chunk.js": "/static/js/157.1717ef66.chunk.js",
+    "main.css": "/static/css/main.07aa0b07.css",
+    "main.js": "/static/js/main.a486c8a9.js",
+    "static/js/157.a9078768.chunk.js": "/static/js/157.a9078768.chunk.js",
     "static/js/710.f4074648.chunk.js": "/static/js/710.f4074648.chunk.js",
     "static/js/473.ef157e20.chunk.js": "/static/js/473.ef157e20.chunk.js",
-    "static/js/213.c9101c6d.chunk.js": "/static/js/213.c9101c6d.chunk.js",
+    "static/js/213.10b7e856.chunk.js": "/static/js/213.10b7e856.chunk.js",
     "static/js/659.67f5f4b2.chunk.js": "/static/js/659.67f5f4b2.chunk.js",
     "static/js/819.2ef8d294.chunk.js": "/static/js/819.2ef8d294.chunk.js",
-    "static/js/127.31ce99e7.chunk.js": "/static/js/127.31ce99e7.chunk.js",
-    "static/js/589.1f52272e.chunk.js": "/static/js/589.1f52272e.chunk.js",
+    "static/js/127.42a1a143.chunk.js": "/static/js/127.42a1a143.chunk.js",
+    "static/js/589.7f94f9e5.chunk.js": "/static/js/589.7f94f9e5.chunk.js",
     "static/js/381.28028eea.chunk.js": "/static/js/381.28028eea.chunk.js",
     "static/js/705.fee51fc8.chunk.js": "/static/js/705.fee51fc8.chunk.js",
-    "static/js/724.df8d50cb.chunk.js": "/static/js/724.df8d50cb.chunk.js",
-    "static/js/586.d7574c30.chunk.js": "/static/js/586.d7574c30.chunk.js",
+    "static/js/724.480a2cf5.chunk.js": "/static/js/724.480a2cf5.chunk.js",
+    "static/js/545.b8e1c2f6.chunk.js": "/static/js/545.b8e1c2f6.chunk.js",
+    "static/js/586.87468c82.chunk.js": "/static/js/586.87468c82.chunk.js",
     "static/js/991.49148a23.chunk.js": "/static/js/991.49148a23.chunk.js",
-    "static/js/555.07723794.chunk.js": "/static/js/555.07723794.chunk.js",
+    "static/js/555.02b72ac4.chunk.js": "/static/js/555.02b72ac4.chunk.js",
     "static/media/carosal2.jpg": "/static/media/carosal2.6c26427f5b615a39a463.jpg",
     "static/media/carosal3.jpg": "/static/media/carosal3.8ebf845f624651edde47.jpg",
     "static/media/carosal1.jpg": "/static/media/carosal1.dd8c6dcdb0c7845955d6.jpg",
@@ -92,7 +93,7 @@
     "static/media/check.svg": "/static/media/check.458bf931e116bbf48f60e5083f991dbb.svg"
   },
   "entrypoints": [
-    "static/css/main.4ec80637.css",
-    "static/js/main.cc99a5bd.js"
+    "static/css/main.07aa0b07.css",
+    "static/js/main.a486c8a9.js"
   ]
 }
