@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[541],{8541:(a,e,p)=>{p.d(e,{A:()=>s});p(9950);const s=p.p+"static/media/logo.44d8d75ca49ab4c7b4669fe25e2b0db8.svg"}}]);
